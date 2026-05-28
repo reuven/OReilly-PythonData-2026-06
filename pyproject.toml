@@ -1,0 +1,15 @@
+[project]
+name = "OReilly-PythonData-2026-06"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter",
+    "gitautopush",
+    "ipython",
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "plotly",
+    "pyarrow",
+    "xlrd",
+]
