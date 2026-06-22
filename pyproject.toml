@@ -12,4 +12,5 @@ dependencies = [
     "plotly",
     "pyarrow",
     "xlrd",
+    "matplotlib>=3.11.0",
 ]
